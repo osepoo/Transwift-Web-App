@@ -9,3 +9,5 @@ Design an app that will;
 5.	Ensure passengers welfare-the app will allow passengers to rate the services and give feedback, It will allow the review.
 6.	To create a user login account. 
 7.	To find your location while travelling.
+## Screenshot
+![image](https://user-images.githubusercontent.com/98480075/159804131-448437a7-4bc3-4b07-902f-d8892704b1f6.png)
