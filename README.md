@@ -4,7 +4,7 @@ This is Transwift's web app prototype.
 
 This is a web application that is used as a matatu sacco management app.
 
-It will allow the users to book, chech the specific route they will be travelling on and also to check the driver and conducto details.
+It will allow the users to book, check the specific route they will be travelling on and also to check the driver and conducto details.
 
 It also has a hotline area where one can forward a complaint anonymously.
 ## Screenshot
